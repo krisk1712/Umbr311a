@@ -1,0 +1,99 @@
+/meg
+
+ /httprobe
+
+ /assetfinder
+
+ /waybackurls
+
+ /lazyrecon
+
+ /JSParser
+
+ /lazys3
+
+ /SecLists
+
+ /Sublist3r
+
+ /domain/
+
+ /massdns
+
+ /dnscan
+
+ /knock
+
+ /masscan
+
+ /EyeWitness
+
+ /httpscreenshot
+
+ /gobuster
+
+ /dirsearch
+
+ /parameth
+
+ /XSStrike
+
+ /xsser
+
+ /oxml_xxe
+
+ /XXEinjector
+
+ /ssrfDetector
+
+ /ground-control
+
+ /tplmap
+
+ /LFISuite
+
+ /GitTools
+
+ /dvcs-ripper
+
+ /HostileSubBruteforcer
+
+ /second-order
+
+ /CORStest
+
+ /retire.js
+
+ /getsploit
+
+ /Findsploit
+
+ /CMSmap
+
+ /joomscan
+
+ /patator
+
+ /whatweb
+
+ /wafw00f
+
+ /S3Scanner
+
+ /AutoRecon
+
+ /Striker
+
+ /Arjun
+
+ /Photon
+
+ /Bolt
+
+ /JShell
+
+ /regxy
+
+ /AwesomeXSS
+
+ /ReconDog
